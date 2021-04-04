@@ -1,2 +1,2 @@
-const guille = 'soy guille';
-console.log('hola ' + guille );
+const guille = 'guille';
+console.log('hola soy ' + guille );
